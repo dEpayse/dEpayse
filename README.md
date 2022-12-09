@@ -52,15 +52,14 @@
   <div id="see_more">
     <h3>- See More -</h3>
     공부한 것의 일부를 Medium 블로그에 정리하고 있고, 저에 대한 더 많은 내용은 Notion 페이지에서 볼 수 있습니다.<br><br>
-    <a href="https://medium.com/depayse"><img width="30" src="https://raw.githubusercontent.com/dEpayse/dEpayse/test_branch/images/medium.png"/></a> <a href="https://depayse.notion.site/About-Me-dbc20d54e3ae4ab5a1868ad6f0909c7e"> <img width="30" src="https://raw.githubusercontent.com/dEpayse/dEpayse/test_branch/images/notion1.png"/> </a>
+    <a href="https://medium.com/depayse"><img width="30" src="https://raw.githubusercontent.com/dEpayse/dEpayse/main/images/medium.png"/></a> <a href="https://depayse.notion.site/About-Me-dbc20d54e3ae4ab5a1868ad6f0909c7e"> <img width="30" src="https://raw.githubusercontent.com/dEpayse/dEpayse/main/images/notion1.png"/> </a>
   </div>
   
   <div id="contact" align="right">
     <h3> Contact </h3>
     <div>
-      <a href="mailTo:bs5295@naver.com"><img width="30" src="https://raw.githubusercontent.com/dEpayse/dEpayse/test_branch/images/naver.png"/></a><br>
+      <a href="mailTo:bs5295@naver.com"><img width="30" src="https://raw.githubusercontent.com/dEpayse/dEpayse/main/images/naver.png"/></a><br>
       <sup>bs5295@naver.com  </sup>
     </div>
   </div>
 </div>
-

@@ -56,17 +56,25 @@
   </div> -->
   
   <div id="see_more" align="left">
-    <h3>- See More -</h3>
+    <h3>See More 🔸</h3>
     공부한 것의 일부를 <b>Medium 블로그</b>에 정리하고 있고,<br>
     저에 대한 더 많은 내용은 <b>Notion 페이지</b>에서 볼 수 있습니다.<br><br>
     <a href="https://medium.com/depayse"><img width="30" src="https://raw.githubusercontent.com/dEpayse/dEpayse/main/images/medium.png"/></a> <a href="https://depayse.notion.site/About-Me-dbc20d54e3ae4ab5a1868ad6f0909c7e"> <img width="30" src="https://raw.githubusercontent.com/dEpayse/dEpayse/main/images/notion1.png"/> </a>
   </div>
+    <div id="see_more_en" align="right">
+    <h3>See More 🔸</h3>
+    I wrote posts about part of my studying in the <b>Medium</b>,<br>
+    you can see more about me in the <b>Notion</b>.<br>
+    (Sorry for producing only in Korean.)<br><br>
+    <a href="https://medium.com/depayse"><img width="30" src="https://raw.githubusercontent.com/dEpayse/dEpayse/main/images/medium.png"/></a> <a href="https://depayse.notion.site/About-Me-dbc20d54e3ae4ab5a1868ad6f0909c7e"> <img width="30" src="https://raw.githubusercontent.com/dEpayse/dEpayse/main/images/notion1.png"/> </a>
+  </div>
   
-  <div id="contact" align="right">
+  <div id="contact">
     <h3> Contact </h3>
     <div>
+      <sup>if you have a question, contact me.</sup><br>
       <a href="mailTo:bs5295@naver.com"><img width="30" src="https://raw.githubusercontent.com/dEpayse/dEpayse/main/images/naver.png"/></a><br>
-      <sup>bs5295@naver.com  </sup>
+      <sup>bs5295@naver.com</sup>
     </div>
   </div>
 </div>

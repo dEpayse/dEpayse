@@ -3,8 +3,6 @@
 
 ![header](https://capsule-render.vercel.app/api?color=gradient&height=150&type=waving&text=dEpayse&fontAlignY=40&desc=about+me&descAlignY=70&fontSize=40)
 
-<!-- 소개 글 적기 -->
-<!-- notion 포트폴리오 링크, medium 링크 첨부 -->
 <!-- 각 뱃지 notion 포트폴리오랑 연결해놓기 -->
 <!-- font 변경 -->
 <!-- 헤더 그라이언트 색 변경 -->
@@ -15,11 +13,19 @@
 <!-- logo 쿼리 값 찾기 : https://simpleicons.org/ -->
 <!-- 뱃지 모양 쿼리 값 : plastic, flat, flat-square, for-the-badge, social -->
 <div id="main_outer" align="center">
-  <div id="introduce_my_self">
-    <h3>안녕하세요!</h3>
+  <div id="introduce_my_self" align="left">
+    <h3>안녕하세요!👋</h3>
     안드로이드 주니어 개발자 최범순입니다.<br>
     2021년 10월부터 안드로이드 개발자로 활동하기 시작했어요.<br>
-    안정되고 효율적인 서비스, 한 걸음 더 사용자를 고려하는 UX를 위한 서비스를 만들기 위해 노력합니다.<br>
+    저는 안드로이드 개발자로 커리어를 쌓고 있지만,<br>
+    안정적이고 효율적이며, 한 걸음 더 사용자를 고려하는 UX를 위한 서비스를 만들기 위해 노력합니다.<br>
+  </div>
+  <div id="introduce_my_self_en" align="right">
+    <h3>Hi, there!👋</h3>
+  I'm Junior Android Developer, Devy.<br>
+  I started to work from October, 2021.<br>
+  Currently, I'm building my career on the android programming.<br>
+  However, I'm trying to make not only stable & efficient service, but also service considering for better UX going a step further. 
   </div>
   
   <h3>- Stacks -</h3>
@@ -49,9 +55,10 @@
   <img src="https://img.shields.io/badge/HTML5-rgba(0,0,0,0)?style=pastic&logo=HTML5&logoColor=E34F26"/> <img src="https://img.shields.io/badge/JavaScript-rgba(0,0,0,0)?style=pastic&logo=JavaScript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/C++-rgba(0,0,0,0)?style=pastic&logo=C%2B%2B&logoColor=00599C"/>
   </div> -->
   
-  <div id="see_more">
+  <div id="see_more" align="left">
     <h3>- See More -</h3>
-    공부한 것의 일부를 Medium 블로그에 정리하고 있고, 저에 대한 더 많은 내용은 Notion 페이지에서 볼 수 있습니다.<br><br>
+    공부한 것의 일부를 <b>Medium 블로그</b>에 정리하고 있고,<br>
+    저에 대한 더 많은 내용은 <b>Notion 페이지</b>에서 볼 수 있습니다.<br><br>
     <a href="https://medium.com/depayse"><img width="30" src="https://raw.githubusercontent.com/dEpayse/dEpayse/main/images/medium.png"/></a> <a href="https://depayse.notion.site/About-Me-dbc20d54e3ae4ab5a1868ad6f0909c7e"> <img width="30" src="https://raw.githubusercontent.com/dEpayse/dEpayse/main/images/notion1.png"/> </a>
   </div>
   

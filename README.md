@@ -76,7 +76,7 @@
   However, I'm trying to make not only stable & efficient service,<br>but also service considering for better UX going a step further. 
   </div>
   
- <h3>Stacks ⊚</h3>
+ <h3>⊚ Stacks</h3>
   <div id="mainly_used_stacks">
   <sub><b>•Mainly Used•</b></sub><br>
     <a href="#"><img src="https://img.shields.io/badge/Kotlin-rgba(0,0,0,0)?style=pastic&logo=Kotlin"/></a> 

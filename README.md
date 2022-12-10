@@ -16,32 +16,32 @@
   <h3>Stacks ⊚</h3>
   <div id="mainly_used_stacks">
   <sub><b>•Mainly Used•</b></sub><br>
-    <picture><img alt="kotlin" src="https://img.shields.io/badge/Kotlin-rgba(0,0,0,0)?style=pastic&logo=Kotlin"/></picture> 
-    <picture><img src="https://img.shields.io/badge/Android-rgba(0,0,0,0)?style=pastic&logo=Android&logoColor=3DDC84"/></picture> 
-    <picture><img src="https://img.shields.io/badge/Java-rgba(0,0,0,0)?style=pastic&logo=oracle&logoColor=F80000"/></picture>
+    <img alt="kotlin" src="https://img.shields.io/badge/Kotlin-rgba(0,0,0,0)?style=pastic&logo=Kotlin"/> 
+    <img src="https://img.shields.io/badge/Android-rgba(0,0,0,0)?style=pastic&logo=Android&logoColor=3DDC84"/> 
+    <img src="https://img.shields.io/badge/Java-rgba(0,0,0,0)?style=pastic&logo=oracle&logoColor=F80000"/>
   </div>
 
   <div id="vcs_stacks">
   <sub><b>•VCS•</b></sub><br>
-    <picture><img src="https://img.shields.io/badge/Git-rgba(0,0,0,0)?style=pastic&logo=Git&logoColor=F05032"/></picture> 
-    <picture><img src="https://img.shields.io/badge/GitHub-rgba(0,0,0,0)?style=pastic&logo=GitHub&logoColor=181717"/></pictrue>
+    <img src="https://img.shields.io/badge/Git-rgba(0,0,0,0)?style=pastic&logo=Git&logoColor=F05032"/> 
+    <img src="https://img.shields.io/badge/GitHub-rgba(0,0,0,0)?style=pastic&logo=GitHub&logoColor=181717"/></pictrue>
   </div>
 
   <div id="ci_cd_stacks">
   <sub><b>•CI/CD•</b></sub><br>
-  <picture><img src="https://img.shields.io/badge/Jenkins-rgba(0,0,0,0)?style=pastic&logo=Jenkins&logoColor=D24939"/></picture> 
-  <picture><img src="https://img.shields.io/badge/Fastlane-rgba(0,0,0,0)?style=pastic&logo=Fastlane&logoColor=00F200"/></picture> <picture><img src="https://img.shields.io/badge/Slack-rgba(0,0,0,0)?style=pastic&logo=Slack&logoColor=4A154B"/></picture>
-  <picture><img src="https://img.shields.io/badge/Firebase App Distribution-rgba(0,0,0,0)?style=pastic&logo=Firebase&logoColor=FFCA28"/></picture> 
+  <img src="https://img.shields.io/badge/Jenkins-rgba(0,0,0,0)?style=pastic&logo=Jenkins&logoColor=D24939"/> 
+  <img src="https://img.shields.io/badge/Fastlane-rgba(0,0,0,0)?style=pastic&logo=Fastlane&logoColor=00F200"/> <img src="https://img.shields.io/badge/Slack-rgba(0,0,0,0)?style=pastic&logo=Slack&logoColor=4A154B"/>
+  <img src="https://img.shields.io/badge/Firebase App Distribution-rgba(0,0,0,0)?style=pastic&logo=Firebase&logoColor=FFCA28"/> 
   </div>
 
   <div id="cooperation_tools_stacks">
   <sub><b>•Cooperation Tools•</b></sub><br>
-    <picture><img src="https://img.shields.io/badge/Notion-rgba(0,0,0,0)?style=pastic&logo=Notion&logoColor=000000"/></picture> 
-    <picture><img src="https://img.shields.io/badge/Slack-rgba(0,0,0,0)?style=pastic&logo=Slack&logoColor=4A154B"/></picture> 
-    <picture><img src="https://img.shields.io/badge/Figma-rgba(0,0,0,0)?style=pastic&logo=Figma&logoColor=F24E1E"/></picture> 
-    <picture><img src="https://img.shields.io/badge/Jira-rgba(0,0,0,0)?style=pastic&logo=Jira&logoColor=0052CC"/></picture> 
-    <picture><img src="https://img.shields.io/badge/Trello-rgba(0,0,0,0)?style=pastic&logo=Trello&logoColor=0052CC"/></picture> 
-    <picture><img src="https://img.shields.io/badge/Google Analytics-rgba(0,0,0,0)?style=pastic&logo=Google Analytics&logoColor=E37400"/></picture>
+    <img src="https://img.shields.io/badge/Notion-rgba(0,0,0,0)?style=pastic&logo=Notion&logoColor=000000"/> 
+    <img src="https://img.shields.io/badge/Slack-rgba(0,0,0,0)?style=pastic&logo=Slack&logoColor=4A154B"/> 
+    <img src="https://img.shields.io/badge/Figma-rgba(0,0,0,0)?style=pastic&logo=Figma&logoColor=F24E1E"/> 
+    <img src="https://img.shields.io/badge/Jira-rgba(0,0,0,0)?style=pastic&logo=Jira&logoColor=0052CC"/> 
+    <img src="https://img.shields.io/badge/Trello-rgba(0,0,0,0)?style=pastic&logo=Trello&logoColor=0052CC"/> 
+    <img src="https://img.shields.io/badge/Google Analytics-rgba(0,0,0,0)?style=pastic&logo=Google Analytics&logoColor=E37400"/>
   </div>
 
 <!--   <div align = "center">
@@ -61,7 +61,7 @@
     <h3> Contact ⊚</h3>
     <div>
       <sup>궁금한 점이 있으시면, 아래 메일로 연락주세요.</sup><br>
-      <picture><img width="30" src="https://raw.githubusercontent.com/dEpayse/dEpayse/main/images/naver.png"/></picture><br>
+      <img width="30" src="https://raw.githubusercontent.com/dEpayse/dEpayse/main/images/naver.png"/><br>
       <sup>bs5295@naver.com</sup>
     </div>
   </div>
@@ -79,32 +79,32 @@
  <h3>Stacks ⊚</h3>
   <div id="mainly_used_stacks">
   <sub><b>•Mainly Used•</b></sub><br>
-    <picture><img src="https://img.shields.io/badge/Kotlin-rgba(0,0,0,0)?style=pastic&logo=Kotlin"/></picture> 
-    <picture><img src="https://img.shields.io/badge/Android-rgba(0,0,0,0)?style=pastic&logo=Android&logoColor=3DDC84"/></picture> 
-    <picture><img src="https://img.shields.io/badge/Java-rgba(0,0,0,0)?style=pastic&logo=oracle&logoColor=F80000"/></picture>
+    <img src="https://img.shields.io/badge/Kotlin-rgba(0,0,0,0)?style=pastic&logo=Kotlin"/> 
+    <img src="https://img.shields.io/badge/Android-rgba(0,0,0,0)?style=pastic&logo=Android&logoColor=3DDC84"/> 
+    <img src="https://img.shields.io/badge/Java-rgba(0,0,0,0)?style=pastic&logo=oracle&logoColor=F80000"/>
   </div>
 
   <div id="vcs_stacks">
   <sub><b>•VCS•</b></sub><br>
-    <picture><img src="https://img.shields.io/badge/Git-rgba(0,0,0,0)?style=pastic&logo=Git&logoColor=F05032"/></picture> 
-    <picture><img src="https://img.shields.io/badge/GitHub-rgba(0,0,0,0)?style=pastic&logo=GitHub&logoColor=181717"/></pictrue>
+    <img src="https://img.shields.io/badge/Git-rgba(0,0,0,0)?style=pastic&logo=Git&logoColor=F05032"/> 
+    <img src="https://img.shields.io/badge/GitHub-rgba(0,0,0,0)?style=pastic&logo=GitHub&logoColor=181717"/></pictrue>
   </div>
 
   <div id="ci_cd_stacks">
   <sub><b>•CI/CD•</b></sub><br>
-  <picture><img src="https://img.shields.io/badge/Jenkins-rgba(0,0,0,0)?style=pastic&logo=Jenkins&logoColor=D24939"/></picture> 
-  <picture><img src="https://img.shields.io/badge/Fastlane-rgba(0,0,0,0)?style=pastic&logo=Fastlane&logoColor=00F200"/></picture> <picture><img src="https://img.shields.io/badge/Slack-rgba(0,0,0,0)?style=pastic&logo=Slack&logoColor=4A154B"/></picture>
-  <picture><img src="https://img.shields.io/badge/Firebase App Distribution-rgba(0,0,0,0)?style=pastic&logo=Firebase&logoColor=FFCA28"/></picture> 
+  <img src="https://img.shields.io/badge/Jenkins-rgba(0,0,0,0)?style=pastic&logo=Jenkins&logoColor=D24939"/> 
+  <img src="https://img.shields.io/badge/Fastlane-rgba(0,0,0,0)?style=pastic&logo=Fastlane&logoColor=00F200"/> <img src="https://img.shields.io/badge/Slack-rgba(0,0,0,0)?style=pastic&logo=Slack&logoColor=4A154B"/>
+  <img src="https://img.shields.io/badge/Firebase App Distribution-rgba(0,0,0,0)?style=pastic&logo=Firebase&logoColor=FFCA28"/> 
   </div>
 
   <div id="cooperation_tools_stacks">
   <sub><b>•Cooperation Tools•</b></sub><br>
-    <picture><img src="https://img.shields.io/badge/Notion-rgba(0,0,0,0)?style=pastic&logo=Notion&logoColor=000000"/></picture> 
-    <picture><img src="https://img.shields.io/badge/Slack-rgba(0,0,0,0)?style=pastic&logo=Slack&logoColor=4A154B"/></picture> 
-    <picture><img src="https://img.shields.io/badge/Figma-rgba(0,0,0,0)?style=pastic&logo=Figma&logoColor=F24E1E"/></picture> 
-    <picture><img src="https://img.shields.io/badge/Jira-rgba(0,0,0,0)?style=pastic&logo=Jira&logoColor=0052CC"/></picture> 
-    <picture><img src="https://img.shields.io/badge/Trello-rgba(0,0,0,0)?style=pastic&logo=Trello&logoColor=0052CC"/></picture> 
-    <picture><img src="https://img.shields.io/badge/Google Analytics-rgba(0,0,0,0)?style=pastic&logo=Google Analytics&logoColor=E37400"/></picture>
+    <img src="https://img.shields.io/badge/Notion-rgba(0,0,0,0)?style=pastic&logo=Notion&logoColor=000000"/> 
+    <img src="https://img.shields.io/badge/Slack-rgba(0,0,0,0)?style=pastic&logo=Slack&logoColor=4A154B"/> 
+    <img src="https://img.shields.io/badge/Figma-rgba(0,0,0,0)?style=pastic&logo=Figma&logoColor=F24E1E"/> 
+    <img src="https://img.shields.io/badge/Jira-rgba(0,0,0,0)?style=pastic&logo=Jira&logoColor=0052CC"/> 
+    <img src="https://img.shields.io/badge/Trello-rgba(0,0,0,0)?style=pastic&logo=Trello&logoColor=0052CC"/> 
+    <img src="https://img.shields.io/badge/Google Analytics-rgba(0,0,0,0)?style=pastic&logo=Google Analytics&logoColor=E37400"/>
   </div>
 
 <!--   <div align = "center">
@@ -129,7 +129,7 @@
     <h3>⊚ Contact </h3>
     <div>
       <sup>if you have a question, contact me.</sup><br>
-      <picture><img width="30" src="https://raw.githubusercontent.com/dEpayse/dEpayse/main/images/naver.png"/></picture><br>
+      <img width="30" src="https://raw.githubusercontent.com/dEpayse/dEpayse/main/images/naver.png"/><br>
       <sup>bs5295@naver.com</sup>
     </div>
   </div>

@@ -15,27 +15,28 @@
   </div>
   <h3>Stacks ⊚</h3>
   <div id="mainly_used_stacks">
-  <sub><b>•Mainly Used•</b></sub><br>
+    <sub><b>•Mainly Used•</b></sub><br>
     <a href="#mainly_used_stacks"><img alt="kotlin" src="https://img.shields.io/badge/Kotlin-rgba(0,0,0,0)?style=pastic&logo=Kotlin"/></a> 
     <a href="#mainly_used_stacks"><img src="https://img.shields.io/badge/Android-rgba(0,0,0,0)?style=pastic&logo=Android&logoColor=3DDC84"/></a> 
     <a href="#mainly_used_stacks"><img src="https://img.shields.io/badge/Java-rgba(0,0,0,0)?style=pastic&logo=oracle&logoColor=F80000"/></a>
   </div>
 
   <div id="vcs_stacks">
-  <sub><b>•VCS•</b></sub><br>
+    <sub><b>•VCS•</b></sub><br>
     <a href="#vcs_stacks"><img src="https://img.shields.io/badge/Git-rgba(0,0,0,0)?style=pastic&logo=Git&logoColor=F05032"/></a> 
     <a href="#vcs_stacks"><img src="https://img.shields.io/badge/GitHub-rgba(0,0,0,0)?style=pastic&logo=GitHub&logoColor=181717"/></pictrue>
   </div>
 
   <div id="ci_cd_stacks">
-  <sub><b>•CI/CD•</b></sub><br>
-  <a href="#ci_cd_stacks"><img src="https://img.shields.io/badge/Jenkins-rgba(0,0,0,0)?style=pastic&logo=Jenkins&logoColor=D24939"/></a> 
-  <a href="#ci_cd_stacks"><img src="https://img.shields.io/badge/Fastlane-rgba(0,0,0,0)?style=pastic&logo=Fastlane&logoColor=00F200"/></a> <a href="#"><img src="https://img.shields.io/badge/Slack-rgba(0,0,0,0)?style=pastic&logo=Slack&logoColor=4A154B"/></a>
-  <a href="#ci_cd_stacks"><img src="https://img.shields.io/badge/Firebase App Distribution-rgba(0,0,0,0)?style=pastic&logo=Firebase&logoColor=FFCA28"/></a> 
+    <sub><b>•CI/CD•</b></sub><br>
+    <a href="#ci_cd_stacks"><img src="https://img.shields.io/badge/Jenkins-rgba(0,0,0,0)?style=pastic&logo=Jenkins&logoColor=D24939"/></a> 
+    <a href="#ci_cd_stacks"><img src="https://img.shields.io/badge/Fastlane-rgba(0,0,0,0)?style=pastic&logo=Fastlane&logoColor=00F200"/></a> 
+    <a href="#ci_cd_stacks"><img src="https://img.shields.io/badge/Slack-rgba(0,0,0,0)?style=pastic&logo=Slack&logoColor=4A154B"/></a>
+    <a href="#ci_cd_stacks"><img src="https://img.shields.io/badge/Firebase App Distribution-rgba(0,0,0,0)?style=pastic&logo=Firebase&logoColor=FFCA28"/></a> 
   </div>
 
   <div id="cooperation_tools_stacks">
-  <sub><b>•Cooperation Tools•</b></sub><br>
+    <sub><b>•Cooperation Tools•</b></sub><br>
     <a href="#cooperation_tools_stacks"><img src="https://img.shields.io/badge/Notion-rgba(0,0,0,0)?style=pastic&logo=Notion&logoColor=000000"/></a> 
     <a href="#cooperation_tools_stacks"><img src="https://img.shields.io/badge/Slack-rgba(0,0,0,0)?style=pastic&logo=Slack&logoColor=4A154B"/></a> 
     <a href="#cooperation_tools_stacks"><img src="https://img.shields.io/badge/Figma-rgba(0,0,0,0)?style=pastic&logo=Figma&logoColor=F24E1E"/></a> 
@@ -78,23 +79,24 @@
   
  <h3>⊚ Stacks</h3>
   <div id="mainly_used_stacks_en">
-  <sub><b>•Mainly Used•</b></sub><br>
+    <sub><b>•Mainly Used•</b></sub><br>
     <a href="#mainly_used_stacks_en"><img src="https://img.shields.io/badge/Kotlin-rgba(0,0,0,0)?style=pastic&logo=Kotlin"/></a> 
     <a href="#mainly_used_stacks_en"><img src="https://img.shields.io/badge/Android-rgba(0,0,0,0)?style=pastic&logo=Android&logoColor=3DDC84"/></a> 
     <a href="#mainly_used_stacks_en"><img src="https://img.shields.io/badge/Java-rgba(0,0,0,0)?style=pastic&logo=oracle&logoColor=F80000"/></a>
   </div>
 
   <div id="vcs_stacks_en">
-  <sub><b>•VCS•</b></sub><br>
+    <sub><b>•VCS•</b></sub><br>
     <a href="#vcs_stacks_en"><img src="https://img.shields.io/badge/Git-rgba(0,0,0,0)?style=pastic&logo=Git&logoColor=F05032"/></a> 
     <a href="#vcs_stacks_en"><img src="https://img.shields.io/badge/GitHub-rgba(0,0,0,0)?style=pastic&logo=GitHub&logoColor=181717"/></pictrue>
   </div>
 
   <div id="ci_cd_stacks_en">
-  <sub><b>•CI/CD•</b></sub><br>
-  <a href="#ci_cd_stacks_en"><img src="https://img.shields.io/badge/Jenkins-rgba(0,0,0,0)?style=pastic&logo=Jenkins&logoColor=D24939"/></a> 
-  <a href="#ci_cd_stacks_en"><img src="https://img.shields.io/badge/Fastlane-rgba(0,0,0,0)?style=pastic&logo=Fastlane&logoColor=00F200"/></a> <a href="#"><img src="https://img.shields.io/badge/Slack-rgba(0,0,0,0)?style=pastic&logo=Slack&logoColor=4A154B"/></a>
-  <a href="#ci_cd_stacks_en"><img src="https://img.shields.io/badge/Firebase App Distribution-rgba(0,0,0,0)?style=pastic&logo=Firebase&logoColor=FFCA28"/></a> 
+    <sub><b>•CI/CD•</b></sub><br>
+    <a href="#ci_cd_stacks_en"><img src="https://img.shields.io/badge/Jenkins-rgba(0,0,0,0)?style=pastic&logo=Jenkins&logoColor=D24939"/></a> 
+    <a href="#ci_cd_stacks_en"><img src="https://img.shields.io/badge/Fastlane-rgba(0,0,0,0)?style=pastic&logo=Fastlane&logoColor=00F200"/></a> 
+    <a href="#ci_cd_stacks_en"><img src="https://img.shields.io/badge/Slack-rgba(0,0,0,0)?style=pastic&logo=Slack&logoColor=4A154B"/></a>
+    <a href="#ci_cd_stacks_en"><img src="https://img.shields.io/badge/Firebase App Distribution-rgba(0,0,0,0)?style=pastic&logo=Firebase&logoColor=FFCA28"/></a> 
   </div>
 
   <div id="cooperation_tools_stacks_en">

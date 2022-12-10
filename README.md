@@ -16,7 +16,7 @@
   <h3>Stacks ⊚</h3>
   <div id="mainly_used_stacks">
   <sub><b>•Mainly Used•</b></sub><br>
-    <a href="#"><img alt="kotlin" src="https://img.shields.io/badge/Kotlin-rgba(0,0,0,0)?style=pastic&logo=Kotlin"/></a> 
+    <a href="#mainly_used_stacks"><img alt="kotlin" src="https://img.shields.io/badge/Kotlin-rgba(0,0,0,0)?style=pastic&logo=Kotlin"/></a> 
     <a href="#"><img src="https://img.shields.io/badge/Android-rgba(0,0,0,0)?style=pastic&logo=Android&logoColor=3DDC84"/></a> 
     <a href="#"><img src="https://img.shields.io/badge/Java-rgba(0,0,0,0)?style=pastic&logo=oracle&logoColor=F80000"/></a>
   </div>

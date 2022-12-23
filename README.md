@@ -10,7 +10,7 @@
     <h3>안녕하세요!👋</h3>
     안드로이드 주니어 개발자 최범순입니다.<br>
     2021년 10월부터 안드로이드 개발자로 활동하기 시작했어요.<br>
-    저는 안드로이드 개발자로 커리어를 쌓고 있지만,<br>
+    저는 안드로이드 개발자로 커리어를 쌓고 있고,<br>
     안정적이고 효율적이며, 한 걸음 더 사용자를 고려하는 UX를 위한 서비스를 만들기 위해 노력합니다.<br>
   </div>
   <h3>Stacks ⊚</h3>
@@ -74,7 +74,7 @@
   I'm Junior Android Developer, Devy.<br>
   I started to work from October, 2021.<br>
   Currently, I'm building my career on the android programming.<br>
-  However, I'm trying to make not only stable & efficient service,<br>but also service considering for better UX going a step further. 
+  I'm trying to make not only stable & efficient service,<br>but also service considering for better UX going a step further. 
   </div>
   
  <h3>⊚ Stacks</h3>

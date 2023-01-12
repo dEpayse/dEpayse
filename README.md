@@ -24,7 +24,7 @@
   <div id="vcs_stacks">
     <sub><b>•VCS•</b></sub><br>
     <a href="https://depayse.notion.site/Git-3fcaae264bdf49379ab94282e7c24c7f"><img src="https://img.shields.io/badge/Git-rgba(0,0,0,0)?style=pastic&logo=Git&logoColor=F05032"/></a> 
-    <a href="https://depayse.notion.site/Github-312e5715e82b48359d383cc5fd665df7"><img src="https://img.shields.io/badge/GitHub-rgba(0,0,0,0)?style=pastic&logo=GitHub&logoColor=181717"/></pictrue>
+    <a href="https://depayse.notion.site/Github-312e5715e82b48359d383cc5fd665df7"><img src="https://img.shields.io/badge/GitHub-rgba(0,0,0,0)?style=pastic&logo=GitHub&logoColor=181717"/></a>
   </div>
 
   <div id="ci_cd_stacks">
@@ -41,7 +41,7 @@
     <a href="https://depayse.notion.site/Slack-c0331654263548a0ad428cf5675a6c20"><img src="https://img.shields.io/badge/Slack-rgba(0,0,0,0)?style=pastic&logo=Slack&logoColor=4A154B"/></a> 
     <a href="https://depayse.notion.site/Figma-ffcccd4f8af149e082e56c939b8d19d1"><img src="https://img.shields.io/badge/Figma-rgba(0,0,0,0)?style=pastic&logo=Figma&logoColor=F24E1E"/></a> 
     <a href="https://depayse.notion.site/Jira-17960f1acc264072b341b5f7f5b6b802"><img src="https://img.shields.io/badge/Jira-rgba(0,0,0,0)?style=pastic&logo=Jira&logoColor=0052CC"/></a> 
-    <a href="#cooperation_tools_stacks"><img src="https://img.shields.io/badge/Trello-rgba(0,0,0,0)?style=pastic&logo=Trello&logoColor=0052CC"/></a> 
+    <a href="https://depayse.notion.site/Trello-43604595234d4b9fb0d5dda4fe38d822"><img src="https://img.shields.io/badge/Trello-rgba(0,0,0,0)?style=pastic&logo=Trello&logoColor=0052CC"/></a> 
     <a href="https://depayse.notion.site/Firebase-0e9e59aee44f43e48255b02a9fb51a21"><img src="https://img.shields.io/badge/Google Analytics-rgba(0,0,0,0)?style=pastic&logo=Google Analytics&logoColor=E37400"/></a>
   </div>
 
@@ -80,33 +80,33 @@
  <h3>⊚ Stacks</h3>
   <div id="mainly_used_stacks_en">
     <sub><b>•Mainly Used•</b></sub><br>
-    <a href="#mainly_used_stacks_en"><img src="https://img.shields.io/badge/Kotlin-rgba(0,0,0,0)?style=pastic&logo=Kotlin"/></a> 
-    <a href="#mainly_used_stacks_en"><img src="https://img.shields.io/badge/Android-rgba(0,0,0,0)?style=pastic&logo=Android&logoColor=3DDC84"/></a> 
-    <a href="#mainly_used_stacks_en"><img src="https://img.shields.io/badge/Java-rgba(0,0,0,0)?style=pastic&logo=oracle&logoColor=F80000"/></a>
+    <a href="https://depayse.notion.site/Kotlin-9f80a026a16f4373a32b7eb57f01f23a"><img alt="kotlin" src="https://img.shields.io/badge/Kotlin-rgba(0,0,0,0)?style=pastic&logo=Kotlin"/></a> 
+    <a href="#mainly_used_stacks"><img src="https://img.shields.io/badge/Android-rgba(0,0,0,0)?style=pastic&logo=Android&logoColor=3DDC84"/></a> 
+    <a href="https://depayse.notion.site/Java-be17ae6c80184ff3894e9757f873e8f0"><img src="https://img.shields.io/badge/Java-rgba(0,0,0,0)?style=pastic&logo=oracle&logoColor=F80000"/></a>
   </div>
 
   <div id="vcs_stacks_en">
     <sub><b>•VCS•</b></sub><br>
-    <a href="#vcs_stacks_en"><img src="https://img.shields.io/badge/Git-rgba(0,0,0,0)?style=pastic&logo=Git&logoColor=F05032"/></a> 
-    <a href="#vcs_stacks_en"><img src="https://img.shields.io/badge/GitHub-rgba(0,0,0,0)?style=pastic&logo=GitHub&logoColor=181717"/></pictrue>
+    <a href="https://depayse.notion.site/Git-3fcaae264bdf49379ab94282e7c24c7f"><img src="https://img.shields.io/badge/Git-rgba(0,0,0,0)?style=pastic&logo=Git&logoColor=F05032"/></a> 
+    <a href="https://depayse.notion.site/Github-312e5715e82b48359d383cc5fd665df7"><img src="https://img.shields.io/badge/GitHub-rgba(0,0,0,0)?style=pastic&logo=GitHub&logoColor=181717"/></a>
   </div>
 
   <div id="ci_cd_stacks_en">
     <sub><b>•CI/CD•</b></sub><br>
-    <a href="#ci_cd_stacks_en"><img src="https://img.shields.io/badge/Jenkins-rgba(0,0,0,0)?style=pastic&logo=Jenkins&logoColor=D24939"/></a> 
-    <a href="#ci_cd_stacks_en"><img src="https://img.shields.io/badge/Fastlane-rgba(0,0,0,0)?style=pastic&logo=Fastlane&logoColor=00F200"/></a> 
-    <a href="#ci_cd_stacks_en"><img src="https://img.shields.io/badge/Slack-rgba(0,0,0,0)?style=pastic&logo=Slack&logoColor=4A154B"/></a>
-    <a href="#ci_cd_stacks_en"><img src="https://img.shields.io/badge/Firebase App Distribution-rgba(0,0,0,0)?style=pastic&logo=Firebase&logoColor=FFCA28"/></a> 
+    <a href="https://depayse.notion.site/Jenkins-9b85ad19189946ccae28fa3272a07148"><img src="https://img.shields.io/badge/Jenkins-rgba(0,0,0,0)?style=pastic&logo=Jenkins&logoColor=D24939"/></a> 
+    <a href="https://depayse.notion.site/Fastlane-1bf2ecefeb734f17aa541c07b1cd33ac"><img src="https://img.shields.io/badge/Fastlane-rgba(0,0,0,0)?style=pastic&logo=Fastlane&logoColor=00F200"/></a> 
+    <a href="https://depayse.notion.site/Slack-Api-d421f6a6162547f7a906da8da7ea46d0"><img src="https://img.shields.io/badge/Slack-rgba(0,0,0,0)?style=pastic&logo=Slack&logoColor=4A154B"/></a>
+    <a href="https://depayse.notion.site/Firebase-App-Distribution-076842abe7904e4bab8bfec5a23f6347"><img src="https://img.shields.io/badge/Firebase App Distribution-rgba(0,0,0,0)?style=pastic&logo=Firebase&logoColor=FFCA28"/></a> 
   </div>
 
   <div id="cooperation_tools_stacks_en">
   <sub><b>•Cooperation Tools•</b></sub><br>
-    <a href="#cooperation_tools_stacks_en"><img src="https://img.shields.io/badge/Notion-rgba(0,0,0,0)?style=pastic&logo=Notion&logoColor=000000"/></a> 
-    <a href="#cooperation_tools_stacks_en"><img src="https://img.shields.io/badge/Slack-rgba(0,0,0,0)?style=pastic&logo=Slack&logoColor=4A154B"/></a> 
-    <a href="#cooperation_tools_stacks_en"><img src="https://img.shields.io/badge/Figma-rgba(0,0,0,0)?style=pastic&logo=Figma&logoColor=F24E1E"/></a> 
-    <a href="#cooperation_tools_stacks_en"><img src="https://img.shields.io/badge/Jira-rgba(0,0,0,0)?style=pastic&logo=Jira&logoColor=0052CC"/></a> 
-    <a href="#cooperation_tools_stacks_en"><img src="https://img.shields.io/badge/Trello-rgba(0,0,0,0)?style=pastic&logo=Trello&logoColor=0052CC"/></a> 
-    <a href="#cooperation_tools_stacks_en"><img src="https://img.shields.io/badge/Google Analytics-rgba(0,0,0,0)?style=pastic&logo=Google Analytics&logoColor=E37400"/></a>
+    <a href="https://depayse.notion.site/Notion-19c5bb8e4ba7410b9d5526ddd7b471c9"><img src="https://img.shields.io/badge/Notion-rgba(0,0,0,0)?style=pastic&logo=Notion&logoColor=000000"/></a> 
+    <a href="https://depayse.notion.site/Slack-c0331654263548a0ad428cf5675a6c20"><img src="https://img.shields.io/badge/Slack-rgba(0,0,0,0)?style=pastic&logo=Slack&logoColor=4A154B"/></a> 
+    <a href="https://depayse.notion.site/Figma-ffcccd4f8af149e082e56c939b8d19d1"><img src="https://img.shields.io/badge/Figma-rgba(0,0,0,0)?style=pastic&logo=Figma&logoColor=F24E1E"/></a> 
+    <a href="https://depayse.notion.site/Jira-17960f1acc264072b341b5f7f5b6b802"><img src="https://img.shields.io/badge/Jira-rgba(0,0,0,0)?style=pastic&logo=Jira&logoColor=0052CC"/></a> 
+    <a href="https://depayse.notion.site/Trello-43604595234d4b9fb0d5dda4fe38d822"><img src="https://img.shields.io/badge/Trello-rgba(0,0,0,0)?style=pastic&logo=Trello&logoColor=0052CC"/></a> 
+    <a href="https://depayse.notion.site/Firebase-0e9e59aee44f43e48255b02a9fb51a21"><img src="https://img.shields.io/badge/Google Analytics-rgba(0,0,0,0)?style=pastic&logo=Google Analytics&logoColor=E37400"/></a>
   </div>
 
 <!--   <div align = "center">

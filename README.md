@@ -68,7 +68,7 @@
   </div>
 </div>
 
-<div id="main_outer_en" align="right">
+<!-- <div id="main_outer_en" align="right">
   <div id="introduce_my_self_en" align="right">
     <h3>Hi, there!👋</h3>
   I'm Junior Android Developer, Devy.<br>
@@ -107,18 +107,18 @@
     <a href="https://depayse.notion.site/Jira-17960f1acc264072b341b5f7f5b6b802"><img src="https://img.shields.io/badge/Jira-rgba(0,0,0,0)?style=pastic&logo=Jira&logoColor=0052CC"/></a> 
     <a href="https://depayse.notion.site/Trello-43604595234d4b9fb0d5dda4fe38d822"><img src="https://img.shields.io/badge/Trello-rgba(0,0,0,0)?style=pastic&logo=Trello&logoColor=0052CC"/></a> 
     <a href="https://depayse.notion.site/Firebase-0e9e59aee44f43e48255b02a9fb51a21"><img src="https://img.shields.io/badge/Google Analytics-rgba(0,0,0,0)?style=pastic&logo=Google Analytics&logoColor=E37400"/></a>
-  </div>
-
-<!--   <div align = "center">
-    <sub><b>•Experienced•</b></sub><br>
-  <img src="https://img.shields.io/badge/HTML5-rgba(0,0,0,0)?style=pastic&logo=HTML5&logoColor=E34F26"/> <img src="https://img.shields.io/badge/JavaScript-rgba(0,0,0,0)?style=pastic&logo=JavaScript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/C++-rgba(0,0,0,0)?style=pastic&logo=C%2B%2B&logoColor=00599C"/>
   </div> -->
 
 <!--   <div align = "center">
     <sub><b>•Experienced•</b></sub><br>
   <img src="https://img.shields.io/badge/HTML5-rgba(0,0,0,0)?style=pastic&logo=HTML5&logoColor=E34F26"/> <img src="https://img.shields.io/badge/JavaScript-rgba(0,0,0,0)?style=pastic&logo=JavaScript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/C++-rgba(0,0,0,0)?style=pastic&logo=C%2B%2B&logoColor=00599C"/>
   </div> -->
-  <div id="see_more_en">
+
+<!--   <div align = "center">
+    <sub><b>•Experienced•</b></sub><br>
+  <img src="https://img.shields.io/badge/HTML5-rgba(0,0,0,0)?style=pastic&logo=HTML5&logoColor=E34F26"/> <img src="https://img.shields.io/badge/JavaScript-rgba(0,0,0,0)?style=pastic&logo=JavaScript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/C++-rgba(0,0,0,0)?style=pastic&logo=C%2B%2B&logoColor=00599C"/>
+  </div> -->
+<!--   <div id="see_more_en">
     <h3>⊚ See More</h3>
     I wrote posts about part of my studying in the <b>Medium</b>,<br>
     you can see more about me in the <b>Notion</b>.<br>
@@ -134,5 +134,5 @@
       <a href="#contact_en"><img width="20" src="https://raw.githubusercontent.com/dEpayse/dEpayse/main/images/naver.png"/></a>
       <sup>bs5295@naver.com</sup>
     </div>
-  </div>
+  </div> -->
 </div>

@@ -62,8 +62,8 @@
     <h3> Contact ⊚</h3>
     <div>
       <sup>궁금한 점이 있으시면, 아래 메일로 연락주세요.</sup><br>
-      <a href="#contact"><img width="20" src="https://raw.githubusercontent.com/dEpayse/dEpayse/main/images/naver.png"/></a>
-      <sup>bs5295@naver.com</sup>
+      <a href="#contact"><img width="20" src="https://raw.githubusercontent.com/dEpayse/dEpayse/main/images/email.png"/></a>
+      <sup>cbs5295@gmail.com</sup>
     </div>
   </div>
 </div>
